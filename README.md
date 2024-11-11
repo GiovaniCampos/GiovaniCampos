@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1>Desenvolvedor Java (https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)</h1> 
 
+Atualmente estou atuando como desenvolvedor Java, dominando tecnologias como:
+- Spring Boot
+- Jsf/Jsp
+- React
+- JavaScript
 <!--
 **GiovaniCampos/GiovaniCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
