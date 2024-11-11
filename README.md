@@ -1,4 +1,4 @@
-<h1>Desenvolvedor Java <img width="5%" height="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/></h1> 
+<h1>Desenvolvedor Java <img width="3%" height="80px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/></h1> 
 
 ## Atualmente estou atuando como desenvolvedor Java, dominando tecnologias como:
 - Spring Boot
