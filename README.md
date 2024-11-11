@@ -1,4 +1,4 @@
-<h1>Desenvolvedor Java (https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)</h1> 
+<h1>Desenvolvedor Java (https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)</h1> [![Java Badge](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)]
 
 Atualmente estou atuando como desenvolvedor Java, dominando tecnologias como:
 - Spring Boot
